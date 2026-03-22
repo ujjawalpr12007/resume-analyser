@@ -33,17 +33,6 @@ An interactive web application that analyzes a resume against a job description 
 
 ---
 
-## 📂 Project Structure
-resume-analyzer/
-│── app/
-│ └── app.py
-│── utils/
-│ └── parser.py
-│── requirements.txt
-│── README.md
-
----
-
 ## ⚙️ How It Works
 
 1. Upload a resume (PDF)
