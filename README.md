@@ -2,7 +2,7 @@
 
 An interactive web application that analyzes a resume against a job description and provides a **match score, skill gap analysis, and improvement suggestions**.
 
-🔗 Live App: [Add your deployed link here]
+🔗 Live App: https://resume-analyser-bvklchceeitigpo62ekszr.streamlit.app
 
 ---
 
